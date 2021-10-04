@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "auction",
+  "short_name": "auction",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "Decentralized auction/marketplace application protocol",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/logo_bg_small.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
